@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">calculadoraImpostoDeRenda</string>
+    <string name="calculo_do_imposto_de_renda">Calculo do Imposto de Renda</string>
+    <string name="sal_rio">Salário</string>
+</resources>
